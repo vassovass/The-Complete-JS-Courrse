@@ -22,6 +22,7 @@ let job2 = "Organic Search Optimizer";
 console.log(myFirstJob);
 */
 
+/*
 true;
 let javascriptIsFun = true;
 let myFirstJob = "Leaser";
@@ -32,3 +33,5 @@ console.log(typeof myFirstJob);
 console.log(typeof age);
 console.log(typeof deceasedDate);
 console.log(typeof true);
+*/
+
