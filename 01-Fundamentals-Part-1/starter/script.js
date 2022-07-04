@@ -83,7 +83,7 @@ console.log(x);
 */
 
 // Operator Precedence S2E15
-
+/*
 const currentYear = 2022;
 const ageJonas = currentYear - 1984;
 const ageSarah = currentYear - 1980;
@@ -93,3 +93,4 @@ console.log(currentYear - 1984 > currentYear - 1980);
 let x, y;
 x = y = 25 - 10 - 5;
 console.log(x, y)
+*/
