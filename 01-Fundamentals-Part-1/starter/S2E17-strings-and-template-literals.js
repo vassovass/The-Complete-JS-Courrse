@@ -14,6 +14,7 @@ console.log(peterNew);
 
 
 //S2E17 - Multiline string Tut
+/*
 //Old Way
 console.log('this is a \n\
 multiline string done \n\
@@ -24,3 +25,5 @@ the old way');
 console.log(`this is a
 multiline string done
 the new way`);
+*/
+
