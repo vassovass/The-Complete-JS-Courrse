@@ -32,4 +32,4 @@ if (birthYear < 2000) {
 } else {
     century = 21;
 }
-console.log(`${century}th century`);
+console.log(`${century}th century`); // th should have if else as well for 21st
