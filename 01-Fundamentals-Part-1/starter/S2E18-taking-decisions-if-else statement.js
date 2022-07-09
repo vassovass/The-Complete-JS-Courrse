@@ -12,7 +12,7 @@ age = 2
 console.log(age);
 legalAge = age >= 18;
 if (legalAge) {
-    console.log('This is legal age')
+    console.log('This is legal age')//
 } else {
     const yearsLeft = 18 - age
     console.log(`There are ${yearsLeft} years till legal age`);
