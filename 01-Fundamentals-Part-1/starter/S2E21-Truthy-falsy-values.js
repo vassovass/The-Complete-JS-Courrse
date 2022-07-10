@@ -56,7 +56,7 @@ if (height) {
     }
 };
 
-
+* /
 height = undefined;
 if (height) {
     console.log("Yay! Height is defined")
@@ -77,6 +77,6 @@ if (height) {
         }
     }
 };
-
+* /
 
 
