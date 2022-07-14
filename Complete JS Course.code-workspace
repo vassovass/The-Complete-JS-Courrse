@@ -1,3 +1,70 @@
 {
-	"folders": []
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "01-Fundamentals-Part-1"
+		},
+		{
+			"path": "02-Fundamentals-Part-2"
+		},
+		{
+			"path": "03-Developer-Skills"
+		},
+		{
+			"path": "04-HTML-CSS"
+		},
+		{
+			"path": "05-Guess-My-Number"
+		},
+		{
+			"path": "06-Modal"
+		},
+		{
+			"path": "07-Pig-Game"
+		},
+		{
+			"path": "08-Behind-the-Scenes"
+		},
+		{
+			"path": "09-Data-Structures-Operators"
+		},
+		{
+			"path": "10-Functions"
+		},
+		{
+			"path": "11-Arrays-Bankist"
+		},
+		{
+			"path": "12-Numbers-Dates-Timers-Bankist"
+		},
+		{
+			"path": "13-Advanced-DOM-Bankist"
+		},
+		{
+			"path": "14-OOP"
+		},
+		{
+			"path": "15-Mapty"
+		},
+		{
+			"path": "16-Asynchronous"
+		},
+		{
+			"path": "17-Modern-JS-Modules-Tooling"
+		},
+		{
+			"path": "18-forkify"
+		},
+		{
+			"path": "Theory"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01-Fundamentals-Part-1"
+	}
 }
