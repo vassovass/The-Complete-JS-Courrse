@@ -1,70 +1,99 @@
 {
 	"folders": [
 		{
+			"name": ".git",
 			"path": ".git"
 		},
 		{
+			"name": ".vscode",
 			"path": ".vscode"
 		},
 		{
+			"name": "Theory",
+			"path": "Theory"
+		},
+		{
+			"name": "Coding Challenges - Complete JS course",
+			"path": "..\\..\\Coding Challenges - Complete JS course"
+		},
+		{
+			"name": "Course",
+			"path": "Course"
+		},
+		{
+			"name": "01-Fundamentals-Part-1",
 			"path": "01-Fundamentals-Part-1"
 		},
 		{
+			"name": "02-Fundamentals-Part-2",
 			"path": "02-Fundamentals-Part-2"
 		},
 		{
+			"name": "03-Developer-Skills",
 			"path": "03-Developer-Skills"
 		},
 		{
+			"name": "04-HTML-CSS",
 			"path": "04-HTML-CSS"
 		},
 		{
+			"name": "05-Guess-My-Number",
 			"path": "05-Guess-My-Number"
 		},
 		{
+			"name": "06-Modal",
 			"path": "06-Modal"
 		},
 		{
+			"name": "07-Pig-Game",
 			"path": "07-Pig-Game"
 		},
 		{
+			"name": "08-Behind-the-Scenes",
 			"path": "08-Behind-the-Scenes"
 		},
 		{
+			"name": "09-Data-Structures-Operators",
 			"path": "09-Data-Structures-Operators"
 		},
 		{
+			"name": "10-Functions",
 			"path": "10-Functions"
 		},
 		{
+			"name": "11-Arrays-Bankist",
 			"path": "11-Arrays-Bankist"
 		},
 		{
+			"name": "12-Numbers-Dates-Timers-Bankist",
 			"path": "12-Numbers-Dates-Timers-Bankist"
 		},
 		{
+			"name": "13-Advanced-DOM-Bankist",
 			"path": "13-Advanced-DOM-Bankist"
 		},
 		{
+			"name": "14-OOP",
 			"path": "14-OOP"
 		},
 		{
+			"name": "15-Mapty",
 			"path": "15-Mapty"
 		},
 		{
+			"name": "16-Asynchronous",
 			"path": "16-Asynchronous"
 		},
 		{
+			"name": "17-Modern-JS-Modules-Tooling",
 			"path": "17-Modern-JS-Modules-Tooling"
 		},
 		{
+			"name": "18-forkify",
 			"path": "18-forkify"
-		},
-		{
-			"path": "Theory"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "01-Fundamentals-Part-1"
+		"liveServer.settings.multiRootWorkspaceName": "Coding Challenges - Complete JS course"
 	}
 }
