@@ -13,10 +13,6 @@
 			"path": "Theory"
 		},
 		{
-			"name": "Coding Challenges - Complete JS course",
-			"path": "..\\..\\Coding Challenges - Complete JS course"
-		},
-		{
 			"name": "Course",
 			"path": "Course"
 		},
@@ -94,6 +90,6 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Coding Challenges - Complete JS course"
+		"liveServer.settings.multiRootWorkspaceName": "01-Fundamentals-Part-1"
 	}
 }
