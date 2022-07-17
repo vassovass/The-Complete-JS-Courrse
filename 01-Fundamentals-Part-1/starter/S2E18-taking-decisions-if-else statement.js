@@ -25,11 +25,28 @@ if (birthYear <= 2000) {
     console.log("Not birthed in the 20th Century")
 };
 */
-const birthYear = 2005;
+const birthYear = 2995;
 let century;
+let postLetters;
 if (birthYear < 2000) {
     century = 20;
+    postLetters = "th";
 } else {
     century = 21;
+    postLetters = "st";
 }
-console.log(`${century}th century`); // th should have if else as well for 21st
+console.log(`${century}${postLetters} century`); // th should have if else as well for 21st {@Link }
+
+switch (birthYear) {
+    case birthYear < 2000:
+        century = 20;
+        postLetters = "st";
+        console.log(`${century}${postLetters} century`)
+        break;
+    case !(birthYear < 2000):
+        century = 21;
+        postLetters = "st";
+        console.log(`${century}${postLetters} century`)
+        break;
+
+}
