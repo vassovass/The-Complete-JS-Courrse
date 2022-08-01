@@ -22,4 +22,3 @@ const vegetableProcessor = function (carrot, butternut) {
   const soup = `Vegetable soup with ${carrot} carrots & ${butternut} butternuts.`;
   return soup;
 }
-
